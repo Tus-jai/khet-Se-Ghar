@@ -1,2 +1,2 @@
 # khet-Se-Ghar
-This An Group Project
+Thisis an Group Project
